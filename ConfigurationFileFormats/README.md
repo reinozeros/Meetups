@@ -1,0 +1,2 @@
+# A short story about configuration file formats
+The basis for this talk was the quest for a flexible way to store and retrieve configuration data for C++ and especially Qt applications. Surprisingly, JavaScript might be one of the best choices for this purpose.
